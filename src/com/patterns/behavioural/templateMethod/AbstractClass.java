@@ -10,7 +10,9 @@ public abstract class AbstractClass {
 		operationTwo();
 		System.out.println("finish template method");
 	}
-	
+
+	//teste-1	
+
 	public abstract void operationOne();
 	public abstract void operationTwo();
 	
